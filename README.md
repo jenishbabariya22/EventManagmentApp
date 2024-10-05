@@ -19,4 +19,4 @@
 ~ Local Storage: Used for persistent storage of events and user authentication tokens
 
 
-Versel Link :-
+Versel Link :- https://event-managment-app-omega.vercel.app
